@@ -20,3 +20,5 @@
 ::::
 
 [`r WEBSITE_SHORT`](`r WEBSITE_URL`)
+
+Présentation faite au [64e congrès de la Société canadienne de science économique](https://scsecongresannuel.com/congres-2025-orford.html).
