@@ -1,24 +1,23 @@
-# Best practices? {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
 
-# First: why? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
+# Transparence : pourquoi ? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
 
-## Why reproducibility?
+## Pourquoi la reproductibilité ?
 
 ::: {.incremental}
-- Credibility
-- Transparency (openness)
-- Efficiency of scholarly discourse?
+- Crédibilité
+- Transparence (ouverture)
+- Efficacité du discours académique ?
 :::
 
-## Why reproducibility?
+## Pourquoi la reproductibilité ?
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
-- Early publications (20th century) contained tables of data, and the math was simple (maybe)
-- Data became electronic, was no longer included or cited
-- Math was transcribed to code, and was no longer included
+- Dans l'ancien temps... (20e siècle): données =  tableaux, code = formules, à la main
+- Les données sont devenues électroniques, n'étaient plus incluses ni citées
+- Les formules ont été transcrites en code, et n'étaient plus incluses
 
 :::
 
@@ -31,26 +30,26 @@
 
 
 
-## Increasing broad consensus in academia
+## Consensus croissant dans le monde académique
 
 ::: {.incremental}
-- FAIR principles
-- Data Citation Principles
-- Computational Reproducibility 
+- Principes "FAIR"
+- Principes de *citation des données*
+- *Reproductibilité* computationnelle
 :::
 
-## FAIR Principles
+## Principes FAIR
 
 ::::{.columns}
 
 :::{.column width="50%"}
 
-FAIR:
+FAIR :
 
-- **F**indable
+- **F**indable (*facile à trouver*)
 - **A**ccessible
-- **I**nteroperable
-- **R**eusable
+- **I**nteropérable
+- **R**éutilisable
 
 :::
 
@@ -62,7 +61,7 @@ FAIR:
 
 ::::
 
-## Data Citation Principles
+## Principes de citation des données
 
 ::::{.columns}
 
@@ -74,7 +73,7 @@ FAIR:
 
 :::{.column width="50%"}
 
-To make it **findable**,
+Pour le rendre **trouvable**,
 
 ![](images/force11-dc-logo.jpg)
 
@@ -89,3 +88,9 @@ Principles. Martone M. (ed.) San Diego CA: FORCE11; 2014
 ::::
 
 
+## Données et code aujourd'hui
+
+
+![](images/aea-repo-example.png)
+
+ 

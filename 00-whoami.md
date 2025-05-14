@@ -1,4 +1,23 @@
-# Who am I?
+# Qui sommes nous?
+
+## Marie Connolly
+
+
+::::{.columns}
+::: {.column width="50%"}
+
+Vice-doyenne à la recherche de l'[École des sciences de la gestion](https://esg.uqam.ca/) et professeur titulaire, [Département des sciences économiques](https://economie.esg.uqam.ca/), UQAM
+Université du Québec à Montréal;  directrice du [Groupe de recherche sur le capital humain (GRCH)](https://grch.esg.uqam.ca/), et "Data Editor" de la [Canadian Journal of Economics/Revue canadienne d'économique](https://www.economics.ca/cje-journal-content).
+
+:::
+
+::: {.column width="50%"}
+
+![Journals](images/cje-landingpage.png)
+
+:::
+
+::::
 
 ## Lars Vilhuber
 

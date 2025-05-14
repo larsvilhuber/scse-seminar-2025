@@ -1,64 +1,70 @@
-# Details on Transparency, etc.
+# Détails sur la transparence, etc.
 
-## Transparency
+## Transparence
 
-- Provenance of the *data*
-- Processing of the data, from raw data to results (code)
-
-> It is the policy of the American Economic Association to publish
-papers only if the **data** used in the analysis are **clearly and precisely documented** and **access** to the data and code is **clearly and precisely documented** and is non-exclusive to the authors.
+- Provenance des *données*
+- Traitement des données, des données brutes aux résultats (code)
 
 
-## Completeness
+## Exhaustivité
 
-- All data needs to be identified and and access described
-- All code needs to be described and provided 
-- All materials must be provided (survey forms, etc.)
+- Toutes les données doivent être identifiées et leur accès décrit
+- Tout le code doit être décrit et *fourni*
+- Tous les matériaux  (formulaires et code source d*'*enquête*, etc.) doivent être fournis
 
-> Authors ... must provide, prior to acceptance, the
-**data, programs, and other details** of the computations **sufficient** to
-permit replication
  
-## Preservation
+## Préservation
 
-- All *data* needs to be preserved for future replicators
-  - Ideally, within the replication package, subject to ToU, for convenience
-  - Otherwise, in a **trusted repository**
+- Toutes les *données* doivent être préservées 
+  - Idéalement, dans le "replication package", sous réserve des conditions d'utilisation
+  - Sinon, dans un **dépôt de confiance** (trusted repository)
 
-## Preservation
+## Préservation
 
-- *Code* must be in a trusted repository
-  - Usually, within the replication package
-  - Websites, Github, are *not acceptable*
+- Le *code* doit être dans un dépôt de confiance
+  - Généralement, dans le "replication package"
+  - Les sites web, Github, ne sont *pas acceptables*
 
 
-## Historically
+## Plus complexe !
 
-![AER 1911 thanks to Stefano Dellavigna](images/aer-1911.jpeg)
+:::: {.columns}
 
-## Modern preservation
+:::{.column width="50%"}
+
+![AER 1911 grâce à Stefano Dellavigna](images/aer-1911.jpeg)
+
+:::
+:::{.column width="50%"}
 
 ![](images/aea-repo-example.png)
 
- 
-## Exceptions to the Policy
+:::
 
-None
+::::
+
+## Exceptions 
+
+Aucune.
 
 ## ...
 
-... there is a grey zone:
+Ceci inclut les données confidentielles, administratives, privées, etc.
 
-- When data do not belong to researcher, no control over preservation, access!
-- Sometimes, *ToU* prevent researcher from revealing metadata (name of company, location)
+## ...
 
-## Transparency again
+... il existe une zone grise :
 
-- However: 
-  - No exception for need to **describe** access (own and other)
-  - No exception for need to fully **describe** processing (possibly with redacted code)
+- Quand les données n'appartiennent pas au chercheur (données de tiers), pas de contrôle sur la préservation, etc.
+- Parfois, les *conditions d'utilisation* empêchent le chercheur de révéler les métadonnées (nom de l'entreprise, localisation)
 
-# Reproducibility in Economics and beyond
+## Transparence à nouveau
+
+- Cependant : 
+  - Aucune exception pour le besoin de **décrire** l'accès (le sien et celui des autres)
+  - Aucune exception pour le besoin de **décrire** entièrement le traitement (possiblement avec du code caviardé)
+
+# Reproductibilité en sciences économiques et au-delà
 
 ## {background-image="images/socsci-webpage.png" background-size="contain"}
 
@@ -76,6 +82,7 @@ None
 - [European Economic Association](http://www.eeassoc.org/journal) (1)
 - [Review of Economic Studies](https://www.restud.com/) (1)
 
+
 :::
 
 :::{.column width="50%"}
@@ -86,7 +93,7 @@ None
 
 ::::
 
-## Common policies {.smaller}
+## Politiques communes {.smaller}
 
 <https://social-science-data-editors.github.io/>
 
@@ -106,7 +113,7 @@ None
 
 ::::
 
-## Elsewhere: Political Science {.smaller}
+## Ailleurs : Sciences politiques {.smaller}
 
 ::::{.columns}
 
@@ -124,7 +131,7 @@ None
 
 ::::
 
-## Elsewhere: Sociology {.smaller}
+## Ailleurs : Sociologie {.smaller}
 
 ::::{.columns}
 
@@ -141,9 +148,9 @@ None
 
 ::::
 
-## But!
+## Mais pas uniforme !
 
-## Elsewhere: Sociology {.smaller}
+## Ailleurs: Sociology {.smaller}
 
 ::::{.columns}
 
