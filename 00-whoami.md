@@ -1,6 +1,6 @@
 # Qui sommes nous?
 
-## Marie Connolly
+## Marie Connolly {.smaller}
 
 
 ::::{.columns}
@@ -13,13 +13,13 @@ Université du Québec à Montréal;  directrice du [Groupe de recherche sur le 
 
 ::: {.column width="50%"}
 
-![Journals](images/cje-landingpage.png)
+![Canadian Journal of Economics](images/cje-landingpage.png)
 
 :::
 
 ::::
 
-## Lars Vilhuber
+## Lars Vilhuber {.smaller}
 
 ::::{.columns}
 ::: {.column width="50%"}
@@ -30,7 +30,7 @@ Executive Director of the [Labor Dynamics Institute](http://www.ilr.cornell.edu/
 
 ::: {.column width="50%"}
 
-![Journals](images/aea-journals.png)
+![AEA Journals](images/aea-journals.png)
 
 :::
 

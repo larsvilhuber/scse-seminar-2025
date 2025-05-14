@@ -2,7 +2,6 @@
 # Resources
 
 
-[![](qrcode.png)](`r WEBSITE_URL`)
 
 ## README
 
@@ -28,3 +27,6 @@ You can download the Word, LaTeX, or Markdown version of the README with lots of
 - This document's source: <`r REPOSITORY_URL`>
 - Licensed under [![CC BY-NC 4.0](/images/cc-by-nc-80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+---
+
+[![](qrcode.png)](`r WEBSITE_URL`)

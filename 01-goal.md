@@ -5,7 +5,7 @@
 
 ::: {.incremental}
 - Crédibilité
-- Transparence (ouverture)
+- Transparence 
 - Efficacité du discours académique ?
 :::
 
@@ -16,8 +16,6 @@
 ::: {.column width="50%"}
 
 - Dans l'ancien temps... (20e siècle): données =  tableaux, code = formules, à la main
-- Les données sont devenues électroniques, n'étaient plus incluses ni citées
-- Les formules ont été transcrites en code, et n'étaient plus incluses
 
 :::
 
@@ -28,6 +26,23 @@
 :::
 ::::
 
+
+## Pourquoi la reproductibilité ?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Les *données* sont devenues électroniques, n'étaient plus incluses ni citées
+- Les formules ont été transcrites en **code**, et n'étaient plus incluses
+
+:::
+
+::: {.column width="50%"}
+
+
+:::
+::::
 
 
 ## Consensus croissant dans le monde académique

@@ -3,7 +3,8 @@ title: "La crédibilité de la recherche : comment améliorer la reproductibilit
 author: 
   - "Lars Vilhuber"
   - "Marie Connolly"
-date: 14 mai 2025
+date: 2025-05-14
+date-format: long
 title-slide-attributes:
   data-background-image: "images/lake-winter.jpg" 
   data-background-size: "auto 50%"

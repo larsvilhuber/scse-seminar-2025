@@ -1,22 +1,22 @@
-# Détails sur la transparence, etc.
+# C'est quoi, alors?
 
 ## Transparence
 
 - Provenance des *données*
-- Traitement des données, des données brutes aux résultats (code)
+- Traitement des données, à partir des données **brutes** jusqu'aux *résultats* (code)
 
 
 ## Exhaustivité
 
-- Toutes les données doivent être identifiées et leur accès décrit
-- Tout le code doit être décrit et *fourni*
-- Tous les matériaux  (formulaires et code source d*'*enquête*, etc.) doivent être fournis
+- **Toutes** les données doivent être identifiées et leur accès décrit
+- **Tout** le code doit être décrit et *fourni*
+- **Tous** les matériaux  (formulaires et code source d'*enquête*, etc.) doivent être fournis
 
  
 ## Préservation
 
 - Toutes les *données* doivent être préservées 
-  - Idéalement, dans le "replication package", sous réserve des conditions d'utilisation
+  - Idéalement, dans le "**replication package**", sous réserve des conditions d'utilisation
   - Sinon, dans un **dépôt de confiance** (trusted repository)
 
 ## Préservation
@@ -30,12 +30,12 @@
 
 :::: {.columns}
 
-:::{.column width="50%"}
+:::{.column width="40%"}
 
 ![AER 1911 grâce à Stefano Dellavigna](images/aer-1911.jpeg)
 
 :::
-:::{.column width="50%"}
+:::{.column width="60%"}
 
 ![](images/aea-repo-example.png)
 
@@ -75,12 +75,13 @@ Ceci inclut les données confidentielles, administratives, privées, etc.
 :::{.column width="50%"}
 
 - [American Economic Association](https://www.aeaweb.org/journals/) (8)
-- [Econometric Society](https://www.econometricsociety.org/) (3)
 - [Canadian Journal of Economics](https://www.economics.ca/cje-home) (1)
+- [Review of Economic Studies](https://www.restud.com/) (1)
 - [Royal Economic Society](https://res.org.uk/journals/) (2)
+- [Econometric Society](https://www.econometricsociety.org/) (3)
 - [Western Economic Association International](https://weai.org/view/EI-Journal-Policies) (1)
 - [European Economic Association](http://www.eeassoc.org/journal) (1)
-- [Review of Economic Studies](https://www.restud.com/) (1)
+- [Journal of Political Economy](https://www.journals.uchicago.edu/journals/jpe) (bientôt)
 
 
 :::
